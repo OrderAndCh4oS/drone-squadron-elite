@@ -1,2 +1,2 @@
-const playerQueue = [{"id":2,"seed":"opW8eZwer244UHaYBtPNEWz6LLNfrpyjZNcu9GTJMHuHqEb7SL1","value":"0.675","leader":"Tubos"},{"id":1,"seed":"ooa8PHz6zA8toZ4FBac7H972oupjbSpq8SQGFTaMuDL3dXQb2q7","value":"0.724","leader":"Nonia"},{"id":0,"seed":"ooU8CrAGL3ASBUMaAhfB3R9a5T3m4V6TEVVDzmiYoMmCGXwvhJo","value":"0.827","leader":"Gaphus"}];
+const playerQueue = [{"id":0,"seed":"oobGxJDksDQZqGkcHcVRajzmAu8DDoEix7i2fXBchdAAh5XAdsp","value":"0.648","leader":"Sophus"}];
     export default playerQueue;
