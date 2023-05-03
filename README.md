@@ -14,6 +14,12 @@ The exclusive minted edition of Drone Squadron: Elite. Each uniquely generated t
 
  - These will be sent directly to your wallet.
 
-### Enemies
+### Single Player
 
 There are one hundred enemy squadrons to defeat in-game. These are ranked and ordered by approximate squad value. Each level should be progressively tougher. Each edition contains the same set of enemies
+
+### PvP Arena
+Pitch your drones against other player's squadrons in the PvP arenas
+ - https://dronesquadron.xyz/pvp/1v1.html
+ - https://dronesquadron.xyz/pvp/6v6.html
+
