@@ -1,8 +1,10 @@
-# Collectible Card NFTs on Hic et Nunc
+# Drone Squadron: Elite
+
+## A Collectible NFT Game on the Tezos Blockchain
 
 The exclusive minted edition of Drone Squadron: Elite features a unique assortment of six randomly generated drone cards. Each card contains data that represents an autonomous drone, designed to engage in fierce combat against rival squadrons within the game. As each squad is distinctively varied, their performance on the battlefield will differ significantly, with certain squads potentially faring better than others during intense clashes.
 
-## To get your squadron:
+### To get your squadron:
 
  - Purchase as many Drone Squadron: Burn Tokens as you want and burn them 🔥🔥🔥.
 
@@ -12,6 +14,6 @@ The exclusive minted edition of Drone Squadron: Elite features a unique assortme
 
  - These will be sent directly to your wallet.
 
-## Enemies
+### Enemies
 
 There are one hundred enemy squadrons to defeat in-game. These are ranked and ordered by approximate squad value. Each level should be progressively tougher. Each edition contains the same set of enemies
