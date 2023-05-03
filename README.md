@@ -2,6 +2,8 @@
 
 ## A Collectible NFT Game on the Tezos Blockchain
 
+https://dronesquadron.xyz/
+
 The exclusive minted edition of Drone Squadron: Elite. Each uniquely generated token features a squad of six randomly generated drones. Each drone has a unique set of stats and equipment, designed to engage in fierce combat against rival squadrons within the game. Each squad is distinctively varied, and their performance on the battlefield will differ significantly, only the most formidable squads to prevail over their adversaries.
 
 ### To get your squadron:
